@@ -109,9 +109,9 @@ This GitHub profile documents my progress, the projects I build, and the technol
 
 ## 📊 GitHub Stats
 
-![Pero's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=perogavranic0&theme=github_dark)
+![Pero's GitHub stats](./profile/stats.svg)
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=perogavranic0&theme=github_dark)
+![Top Languages](./profile/top-langs.svg)
 
 ## 📫 Contact
 
