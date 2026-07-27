@@ -45,7 +45,7 @@ A mobile application that helps users remember to wear their dental retainer and
 
 **Built with:** React Native, Expo and TypeScript
 
-[View repository](https://github.com/perogavranic0/RetainerReminder)
+[View repository](https://github.com/perogavranic0/Retainer-Reminder)
 
 ---
 
