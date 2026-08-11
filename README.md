@@ -43,9 +43,9 @@ A football club management game where the player manages a squad, transfers, fac
 
 Full-stack inventory management application built with React, FastAPI and PostgreSQL.
 
-[View project details →](projects/product-inventory-tracker.md)
+**Built with:** React, FastAPI, SQLAlchemy, PostgreSQL and Python
 
-**Tech:** Python • FastAPI • SQLAlchemy • PostgreSQL • React
+[View repository](LINK_DO_REPOSITORYJA)
 
 ---
 
