@@ -112,6 +112,7 @@ The collection includes:
 - Git and GitHub
 - Writing cleaner and more maintainable code
 - Working with databases and APIs
+- FastApi
 
 ## 🎯 My Goals
 
