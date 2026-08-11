@@ -39,6 +39,16 @@ A football club management game where the player manages a squad, transfers, fac
 
 ---
 
+### 📦 Product Inventory Tracker
+
+Full-stack inventory management application built with React, FastAPI and PostgreSQL.
+
+[View project details →](projects/product-inventory-tracker.md)
+
+**Tech:** Python • FastAPI • SQLAlchemy • PostgreSQL • React
+
+---
+
 ### 🦷 Retainer Reminder
 
 A mobile application that helps users remember to wear their dental retainer and track their daily progress and streak.
