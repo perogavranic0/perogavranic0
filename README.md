@@ -45,7 +45,7 @@ Full-stack inventory management application built with React, FastAPI and Postgr
 
 **Built with:** React, FastAPI, SQLAlchemy, PostgreSQL and Python
 
-[View repository](LINK_DO_REPOSITORYJA)
+[View repository](https://github.com/perogavranic0/projectpy)
 
 ---
 
